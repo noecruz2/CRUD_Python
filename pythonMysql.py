@@ -6,6 +6,9 @@ from tkinter import *
 from tkinter import ttk
 from tkinter import messagebox
 
+from clientes import *
+from conexion import * 
+
 class FormularioClientes: 
     
   def Formulario():
