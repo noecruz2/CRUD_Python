@@ -11,6 +11,7 @@ from conexion import *
 
 class FormularioClientes: 
     
+  global textBoxId
   def Formulario():
         
     try:
